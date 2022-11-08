@@ -1,5 +1,12 @@
 # ProblemaOrbitaCython
 
+<br>
+<i><b>Autor:</b></i> Catalina Perdomo
+<br>
+<i><b>Asignatura:</b></i> Computación Paralela y Distribuida
+<br>
+<b>Ciencias de la computación e inteligencia artificial</b></i>
+
 El repositorio contiene el problema del Planeta en Orbita, con el fin de comparar el rendimiento de la solucion del problema al ejecutarlo en Cython y Python.
 
 Para la solución del problema se crearon los siguientes programas:
